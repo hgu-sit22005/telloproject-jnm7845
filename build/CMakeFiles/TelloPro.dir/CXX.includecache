@@ -58,6 +58,18 @@ sstream
 TelloPro.h
 /data/telloproject-jnm7845/src/TelloPro.h
 
+/data/telloproject-jnm7845/src/flip.cpp
+flip.h
+/data/telloproject-jnm7845/src/flip.h
+cstring
+-
+sstream
+-
+
+/data/telloproject-jnm7845/src/flip.h
+TelloPro.h
+/data/telloproject-jnm7845/src/TelloPro.h
+
 /data/telloproject-jnm7845/src/forward.cpp
 forward.h
 /data/telloproject-jnm7845/src/forward.h
@@ -117,6 +129,8 @@ cw.h
 /data/telloproject-jnm7845/src/cw.h
 ccw.h
 /data/telloproject-jnm7845/src/ccw.h
+flip.h
+/data/telloproject-jnm7845/src/flip.h
 
 /data/telloproject-jnm7845/src/right.cpp
 right.h

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/data/telloproject-jnm7845/src/ccw.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/ccw.cpp.o"
   "/data/telloproject-jnm7845/src/cw.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/cw.cpp.o"
   "/data/telloproject-jnm7845/src/down.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/down.cpp.o"
+  "/data/telloproject-jnm7845/src/flip.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/flip.cpp.o"
   "/data/telloproject-jnm7845/src/forward.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/forward.cpp.o"
   "/data/telloproject-jnm7845/src/land.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/land.cpp.o"
   "/data/telloproject-jnm7845/src/left.cpp" "/data/telloproject-jnm7845/build/CMakeFiles/TelloPro.dir/src/left.cpp.o"

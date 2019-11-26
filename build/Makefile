@@ -231,6 +231,33 @@ src/down.cpp.s:
 	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/down.cpp.s
 .PHONY : src/down.cpp.s
 
+src/flip.o: src/flip.cpp.o
+
+.PHONY : src/flip.o
+
+# target to build an object file
+src/flip.cpp.o:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/flip.cpp.o
+.PHONY : src/flip.cpp.o
+
+src/flip.i: src/flip.cpp.i
+
+.PHONY : src/flip.i
+
+# target to preprocess a source file
+src/flip.cpp.i:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/flip.cpp.i
+.PHONY : src/flip.cpp.i
+
+src/flip.s: src/flip.cpp.s
+
+.PHONY : src/flip.s
+
+# target to generate assembly for a file
+src/flip.cpp.s:
+	$(MAKE) -f CMakeFiles/TelloPro.dir/build.make CMakeFiles/TelloPro.dir/src/flip.cpp.s
+.PHONY : src/flip.cpp.s
+
 src/forward.o: src/forward.cpp.o
 
 .PHONY : src/forward.o
@@ -441,6 +468,9 @@ help:
 	@echo "... src/down.o"
 	@echo "... src/down.i"
 	@echo "... src/down.s"
+	@echo "... src/flip.o"
+	@echo "... src/flip.i"
+	@echo "... src/flip.s"
 	@echo "... src/forward.o"
 	@echo "... src/forward.i"
 	@echo "... src/forward.s"

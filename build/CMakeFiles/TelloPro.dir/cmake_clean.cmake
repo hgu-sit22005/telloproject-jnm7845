@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/TelloPro.dir/src/back.cpp.o"
   "CMakeFiles/TelloPro.dir/src/cw.cpp.o"
   "CMakeFiles/TelloPro.dir/src/ccw.cpp.o"
+  "CMakeFiles/TelloPro.dir/src/flip.cpp.o"
   "CMakeFiles/TelloPro.dir/src/python_interface.cpp.o"
   "../bin/TelloPro.pdb"
   "../bin/TelloPro.so"

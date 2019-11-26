@@ -14,6 +14,8 @@ command_lst.append(TelloPro.get_instance('left',40))
 command_lst.append(TelloPro.get_instance('right',40))
 command_lst.append(TelloPro.get_instance('forward',40))
 command_lst.append(TelloPro.get_instance('back',40))
+for i in range(4):
+	command_lst.append(TelloPro.get_instance('flip',i))
 command_lst.append(TelloPro.get_instance('cw',40))
 command_lst.append(TelloPro.get_instance('ccw',40))
 command_lst.append(TelloPro.get_instance('land',3))
